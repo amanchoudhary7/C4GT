@@ -18,6 +18,26 @@
     <td>JSS Academy of Technical Education, Noida</td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Aman Choudhary</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/amanchoudhary7</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/aman-choudhary-5840b024a/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Amity University , Patna</td>
+  </tr>
+</table>
+
 <table>
       <tr>
         <td>Name</td>
